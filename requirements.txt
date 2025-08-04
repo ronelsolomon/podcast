@@ -1,0 +1,8 @@
+torch
+transformers
+accelerate
+gtts
+python-dotenv
+protobuf
+sentencepiece
+numpy
